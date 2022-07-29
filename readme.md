@@ -1,7 +1,3 @@
-<p align="center">
-    <a href="https://stcvit.in/" target="_blank"><img src="https://github.com/STCVIT/STC-README/blob/master/gitbanner.png" title="STC-VIT" alt="STC-VIT"></a>
-</p>
-
 <center>
 
 # FLO-IN
@@ -10,14 +6,9 @@
 
 ---
 <p>
-  <a href="https://stcvit.in/" target="_blank">
-    <img alt="made-by-stc" src="https://img.shields.io/badge/MADE%20BY-STC%20VIT-blue?style=for-the-badge" />
-  </a>
-
   <a href='https://github.com/STCVIT/Flo-In/blob/master/LICENSE' target="_blank">
   <img alt="license" src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" />
   </a>
-    
 </p>
 
 
@@ -53,7 +44,7 @@
 
 - Clone the repository
 ```
-git clone https://github.com/STCVIT/Flo-In.git 
+git clone https://github.com/Rishabhco/ml-project.git 
 ```
 - Install the dependencies
 ```
@@ -80,7 +71,7 @@ these commands for PowerShell if you want.
 #### Clone this repo anywhere you want and move into the directory:
 
 ```sh
-git clone https://github.com/Rishabhco/Flo-In.git
+git clone https://github.com/Rishabhco/ml-project.git
 cd FloIn
 
 # Optionally checkout a specific tag, such as: git checkout 0.4.0
