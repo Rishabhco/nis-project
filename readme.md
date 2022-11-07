@@ -44,7 +44,7 @@
 
 - Clone the repository
 ```
-git clone https://github.com/Rishabhco/ml-project.git 
+git clone https://github.com/Rishabhco/nis-project.git 
 ```
 - Install the dependencies
 ```
@@ -71,7 +71,7 @@ these commands for PowerShell if you want.
 #### Clone this repo anywhere you want and move into the directory:
 
 ```sh
-git clone https://github.com/Rishabhco/ml-project.git
+git clone https://github.com/Rishabhco/nis-project.git
 cd FloIn
 
 # Optionally checkout a specific tag, such as: git checkout 0.4.0
